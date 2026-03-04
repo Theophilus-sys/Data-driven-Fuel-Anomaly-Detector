@@ -1,5 +1,6 @@
 # Detection of Operational Leakage in Telecom Infrastructure
 *Anomaly Detection for Fuel Consumption across 1000 tower sites*
+![FIndings](charts.png)
 >1. Executive Summary
 
 In the Nigerian telecommunication landscape, fuel precisely diesel accounts for over 60% of site operational costs and with MTN's recent acquisition of IHS, there is an increasing need for focus on the data internalization that is using data to find effiencies. This notebook aims to develop an **Anomaly Detection** for identifying "Fuel Leakage" by comparing actual consumption against expected benchmarks. 
