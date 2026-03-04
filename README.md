@@ -34,6 +34,13 @@ Without this model, Minor Fuel leakages can go unnoticed across her 29,000 sites
 * Assumed leakage: If 5% of sites (approx 1,450 towers) experience a 20-liter daily loss due to theft or faulty sensors.
 * Daily Loss: 1,450 * 20 liters = 29,000 liters/day.
 * Annual cost: At an average diesel price of #1,400/liter, this represents an annual loss of over #14.8 Billion.
+
+>7. Privacy Disclaimer
+
+In adhering to industry-standard data privacy, this project utilize a synthetic dataset.
+* The data comprises of 1,000 randomized site consumption records generated using Python's Pandas and Numpy libraries.
+* The data was designed to simulate real-world telecom infrastructure behavo=ior to demonstrate the model's logi and resulting business strategic case.
+* Finacial metrics are calculated based on representative industry averages for diesel pricing and site consumption rates
 ## Strategic Field Directives
 The primary objective of implementing this **Anomaly Detection Model** is to internalizes costs. This model utilizes a *representative sample of 1,000 towers* to validate the algorithms, the system is architected for the full **MTN_IHS 29,000 tower fleet**. Without this model, "minor" fuel theft often goes unnoticed across tower sites and even a seemingly small daily loss per site scales into a massive financial drain for an telecom group
 * **Statistical Significance:** A 1,000-site sample provides a **95% confidence level** with a small margin of error, allowing us to prove the "Leakage Pattern" before deploying model company-wide.
