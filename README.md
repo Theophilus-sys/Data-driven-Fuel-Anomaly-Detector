@@ -51,7 +51,7 @@ This project directly supports MTN's goal of Operational Efficiencies. By moving
 * Tageted Auditing: The model directs security and maintenance teams only to the top 5% flagged anomalies and not an expensive physical audits of 29,000 sites thereby reducing Field Operation costs by an estimated 30% - 40%.
 * Deterrence Effect: Acts as a psychological deterrent for third party contractors or vendors as they know "Digital Eyes" are monitoring consumptions in real-time.
 * Proactive maintenance: As anomalies aren't always due to theft and with this model, generators losing efficency are spotted. this ensures early prevention efforts for total site blackout which costs the company significant "Service Level Agreement" penalties from mobile operators.
-![Sensitivity Analysis](sensitivity_analysis.png)
+![Sensitivity Analysis](sensitivity_analysis (1).png)
 ## Strategic Interpretation: Sensitivity Analysis 
 The Chart above illustrates the financial risk exposure based on two volatile market conditions that is diesel prices and leakage rate (Anomaly Frequency). 
 * Price Floor & Ceilling: With diesel price at #1,000/L, a 5% leakage results in a #10.5Billion annual loss. As Prices fluctuate towards #2,000/L the same leakage escalated to #21 Billion.
